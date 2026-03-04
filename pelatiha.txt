@@ -3,3 +3,4 @@ rancana pelatihan
 - pelatihan frontend
 - pelatihan data
 - pelatihan analis
+- apalagi ya
