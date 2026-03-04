@@ -1,2 +1,2 @@
 # resolusi-riki
-resolusi yang mau dicapai di smt
+resolusi yang mau dicapai di smt 4
