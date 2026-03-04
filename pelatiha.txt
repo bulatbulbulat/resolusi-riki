@@ -1,3 +1,5 @@
 rancana pelatihan
 - pelatihan backend
 - pelatihan frontend
+- pelatihan data
+- pelatihan analis
