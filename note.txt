@@ -1,0 +1,3 @@
+ini catatan di branch baru
+apakah bisa buat branch baru setelah 3 kali percobaan
+juga mencoba untuk menghapus salah satu file default di main
