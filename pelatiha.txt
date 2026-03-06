@@ -2,6 +2,5 @@ rancana pelatihan
 - pelatihan backend
 - pelatihan frontend
 - pelatihan data
-- pelatihan analis
-- apalagi ya
-- diubah lagi
+
+ini update untuk teks pelatihan di main
